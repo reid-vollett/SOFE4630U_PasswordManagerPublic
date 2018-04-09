@@ -8,7 +8,7 @@
         <div class="col l3 s12">
           <h5 class="white-text">Github</h5>
           <ul>
-            <li><a class="white-text" href="https://github.com/reid-vollett/SOFE4630U_PasswordManager">Link</a></li>
+            <li><a class="white-text" href="https://github.com/reid-vollett/SOFE4630U_PasswordManagerPublic">Link</a></li>
           </ul>
         </div>
         <div class="col l3 s12">
